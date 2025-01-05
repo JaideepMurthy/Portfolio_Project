@@ -26,22 +26,20 @@ const Footer = () => {
                         animate={{ scale: [1, 1.2, 1] }} 
                         transition={{ repeat: Infinity, duration: 1.5 }}>
                         ❤
-                    </motion.span> by Jaideep 🎅 Merry Christmas
+                    </motion.span> by Jaideep
                 </p>
                 
                 <div className="flex justify-center space-x-6 text-white mb-6">
-                <a href="https://www.linkedin.com/in/Jaideep-panda/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/jaideep-murthy/" target="_blank" rel="noopener noreferrer">
                 <FaLinkedin className='text-white transition ease-in-out delay-100 hover:-translate-y-1' size={24}></FaLinkedin>
               </a>
-              <a href="https://leetcode.com/u/its_Jaideep/" target="_blank" rel="noopener noreferrer"> 
+              <a href="https://leetcode.com/u/JaideepM/" target="_blank" rel="noopener noreferrer"> 
                 <LiaExternalLinkAltSolid className='text-white transition ease-in-out delay-100 hover:-translate-y-1 ' size={24}></LiaExternalLinkAltSolid>
                 </a>
-                <a href="https://www.instagram.com/Jaideepupanda__" target="_blank" rel="noopener noreferrer"> 
+                <a href="https://www.instagram.com/jaideepmurthy/" target="_blank" rel="noopener noreferrer"> 
                 <FaInstagram className='text-white transition ease-in-out delay-100 hover:-translate-y-1' size={24}></FaInstagram></a>
-                <a href="https://github.com/thegeek36" target="_blank" rel="noopener noreferrer"> 
+                <a href="https://github.com/JaideepMurthy" target="_blank" rel="noopener noreferrer"> 
                 <FaGithub className='text-white transition ease-in-out delay-100 hover:-translate-y-1' size={24}></FaGithub> </a>
-                <a href="https://x.com/that_tallguy_1" target="_blank" rel="noopener noreferrer"> 
-                <BsTwitterX className='text-white transition ease-in-out delay-100 hover:-translate-y-2' size={24}></BsTwitterX> </a>
                 </div>
 
                 <button 
