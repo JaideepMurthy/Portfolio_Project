@@ -76,22 +76,6 @@ const Hero = () => {
         className='max-w-xs lg:max-w-md h-auto rounded-2xl  hover:scale-110 focus:outline-none focus-visible:outline-none'
       />
       
-      {/* Santa Hat */}
-      <motion.img 
-        src={santaHat}
-        alt="Santa Hat"
-        className="absolute size-44  scale-10  -top-12 -right-14 transform rotate-10" // Adjusted size and position
-        initial={{ y: -20, rotate: 15 }} // Slight backward tilt
-        animate={{ 
-          y: [-20, -10, -20], // Smooth bounce effect
-          rotate: [15, 20, 15] // Gentle rocking motion
-        }}
-        transition={{
-          duration: 2,
-          repeat: Infinity,
-          ease: "easeInOut"
-        }}
-      />
     </motion.div>
   </div>
 </div>
