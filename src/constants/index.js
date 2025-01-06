@@ -50,14 +50,14 @@ export const EDUCATION = [
       "Graduated with a deep understanding of core computer science fundamentals. Explored a wide range of topics including coding, app development, web development, and machine learning. Lived away from home in a hostel, where I made lasting friendships and created wonderful memories.",
   },
   {
-    degree: "12th Science",
+    degree: "11th to 12th",
     institution: "Indus International School - Bangalore, IB",
     duration: "June 2019 - May 2021",
     description:
       "Studied Physics, Chemistry, Mathematics, and Computer Science with a focus on Java. Developed a growing interest in programming, enjoyed memorable trips with friends, and cherished the final moments of school life.",
   },
   {
-    degree: "Primary School",
+    degree: "8th to 10th",
     institution: "Vibgyor High School, ICSE",
     duration: "April 2017 - May 2019",
     description:
@@ -115,6 +115,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Bangalore, Karnataka, India",
-  phoneNo: "+91 9090xxxxxx",
+  phoneNo: "+91 9676363695",
   email: "jaideepmurthy3@gmail.com",
 };

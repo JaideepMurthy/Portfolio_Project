@@ -54,10 +54,10 @@ const ContactForm = () => {
       };
 
       await emailjs.send(
-        'service_98tw0xc',
-        'template_as6sjil',
+        'service_9f5zkkk',
+        'template_7ldaijw',
         templateParams,
-        'LKJg32gTvTg56DrCk'
+        'pBlg2TLvjx9xsVcKp'
       );
 
       setFormData({ name: '', email: '', message: '' });
