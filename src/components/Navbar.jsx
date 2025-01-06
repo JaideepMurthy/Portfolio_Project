@@ -25,7 +25,7 @@ const Navbar = () => {
       {/* Main Navigation */}
       <nav className='w-full flex items-center justify-between py-5 bg-black bg-opacity-95 backdrop-blur-sm'>
         <div className='flex flex-shrink-0 items-center'>
-          <h2 className='text-white mx-1 text-2xl font-bold'>🌲Jaideep🎅</h2>
+          <h2 className='text-white mx-1 text-2xl font-bold'><a href="/">🌲Jaideep🎅</a></h2>
         </div>
 
         {/* Mobile Menu Toggle */}

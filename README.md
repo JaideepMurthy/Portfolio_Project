@@ -29,7 +29,7 @@ I welcome contributions from fellow developers! Here's how you can contribute:
 1. **Fork the Repository**: Click the 'Fork' button at the top right of the repository page to create a copy in your GitHub account.
 2. **Clone the Repository**: Clone the forked repository to your local machine using:
     ```bash
-    git clone https://github.com/thegeek36/My-React-Portfolio.git
+    git clone https://github.com/JaideepMurthy/Portfolio_Project
     ```
 3. **Create a Branch**: Create a new branch for your feature or bug fix:
     ```bash
@@ -51,11 +51,11 @@ To get started with this portfolio:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/thegeek36/My-React-Portfolio.git
+    git clone https://github.com/JaideepMurthy/Portfolio_Project
     ```
 2. **Navigate to the Project Directory**:
     ```bash
-    cd My-React-Portfolio
+    cd Portfolio_Project
     ```
 3. **Install Dependencies**:
     ```bash

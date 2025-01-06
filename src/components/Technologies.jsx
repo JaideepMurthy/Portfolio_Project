@@ -10,6 +10,7 @@ import { SiPhp } from "react-icons/si";
 import { FaAws } from "react-icons/fa";
 import { RiFirebaseFill } from "react-icons/ri";
 import { BiLogoCPlusPlus } from "react-icons/bi";
+import { BiLogoJava } from "react-icons/bi";
 import { motion } from "framer-motion"
 
 const iconMove= (duration) => ({
@@ -125,6 +126,14 @@ const Technologies = () => {
                 <BiLogoCPlusPlus className='text-7xl text-neutral-400 group-hover:opacity-50'/>
                 <span className='absolute bottom-8 left-1/2 -translate-x-1/2 translate-y-8 rounded bg-neutral-800 px-2 py-1 text-white opacity-0 transition-opacity duration-200 group-hover:opacity-100'>
                     C++
+                </span>
+            </motion.div>
+            <motion.div variants={iconMove(2.5)}
+                initial="initial"
+                animate="animate" className='relative group rounded-2xl border-4 border-neutral-800 p-4'>
+                <BiLogoJava className='text-7xl text-neutral-400 group-hover:opacity-50'/>
+                <span className='absolute bottom-8 left-1/2 -translate-x-1/2 translate-y-8 rounded bg-neutral-800 px-2 py-1 text-white opacity-0 transition-opacity duration-200 group-hover:opacity-100'>
+                    Java
                 </span>
             </motion.div>
         </motion.div>
