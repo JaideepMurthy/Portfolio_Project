@@ -1,6 +1,6 @@
 # My React Portfolio
 
-Welcome to my portfolio! This project showcases my skills and experience in web development and design. It includes various sections that highlight my professional background, projects, and ways to connect with me.
+Welcome to my portfolio! This project showcases my skills and experience in web development and design. It includes an AI Assistant Chatbot - Wednessday, and various sections that highlight my professional background, projects, and ways to connect with me.
 
 ## 🚀 Features
 
